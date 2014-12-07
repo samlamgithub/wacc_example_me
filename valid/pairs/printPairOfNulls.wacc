@@ -1,0 +1,10 @@
+# print a pair of null pairs 
+
+# Output:
+# #addrs# = ((nil),(nil))
+
+# Program:
+
+begin
+  pair(pair, pair) p = newpair(null, null)
+end
